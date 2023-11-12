@@ -1,0 +1,13 @@
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\bin\Debug\Property_analysis.exe.config
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\bin\Debug\Property_analysis.exe
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\bin\Debug\Property_analysis.pdb
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\bin\Debug\aa-DJ\Property_analysis.resources.dll
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.csproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.Properties.Resources.resources
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.PropertyAnalysis.resources
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.PropertyAnalysis.aa-DJ.resources
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.csproj.GenerateResource.cache
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\aa-DJ\Property_analysis.resources.dll
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.exe
+C:\Users\Nicholas\source\repos\Property_analysis\Property_analysis\Property_analysis\obj\Debug\Property_analysis.pdb
